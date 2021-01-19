@@ -1,6 +1,8 @@
 ## Installing
 ```buildoutcfg
+// install dependencies
 pip install -r requirements.txt
-npm install
+
+// create database
 createdb flyyur-app
 ```
